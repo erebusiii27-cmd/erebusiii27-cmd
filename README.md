@@ -1,15 +1,14 @@
 # Hi there, I'm Aarush 👋
 
 ### 🚀 About Me
-- 💻 I am a **High School student** looking for full-time opportunities.
-- 🛠️ Currently focusing on Machine learning.
-- ⚡ Fun fact: I like learning new things and i always do it everyday.
+- 📐 I want to be a **Machine learning engineer** specializing in translating mathematical theory into optimized Python code.
+- 🛠️ Currently focusing on Matrices.
+- ⚡ Fun fact: I always learn something new everyday.
 
 ### 🧰 Tech Stack & Tools
-- **Languages:** Learning Python
-- **Frameworks:** Currently none
-- **Databases & DevOps:** Currently none
-- **Design & Tools:** Currently none
+- **Mathematics & Theory:** Learning Matrices
+- **Core Languages:** Learning Python
+- **Frameworks & Tools:** Currently none
 
 ### 📫 Connect With Me
-erebusiii27@gmail.com
+- erebusiii27@gmail.com
