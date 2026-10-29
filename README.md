@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Aarush 👋
 
-<!--
-**erebusiii27-cmd/erebusiii27-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 💻 I am a **High School student** looking for full-time opportunities.
+- 🛠️ Currently focusing on Machine learning.
+- ⚡ Fun fact: I like learning new things and i always do it everyday.
 
-Here are some ideas to get you started:
+### 🧰 Tech Stack & Tools
+- **Languages:** Learning Python
+- **Frameworks:** Currently none
+- **Databases & DevOps:** Currently none
+- **Design & Tools:** Currently none
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect With Me
+erebusiii27@gmail.com
